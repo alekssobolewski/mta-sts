@@ -1,5 +1,0 @@
-version: STSv1
-mode: testing
-mx: *.arenescientific.com
-mx: *.arenescientific.pl
-max_age: 604800
