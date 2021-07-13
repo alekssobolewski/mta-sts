@@ -1,0 +1,6 @@
+version: STSv1
+mode: testing
+mx: mx1.zenbox.pl
+mx: mx2.zenbox.pl
+mx: mx3.zenbox.pl
+max_age: 604800
